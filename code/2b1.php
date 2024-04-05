@@ -13,10 +13,13 @@ session_start();
     <form action="2b2.php" method="post">
         <label for="name">Name</label>
         <input type="text" id="" name = "name">
+        
         <label for="surname">Surname</label>
         <input type="text" id="" name = "surname">
+
         <label for="age">Age</label>
         <input type="text" id="" name = "age">
+
         <input type="submit" name="submit" value="Переход!">
 
 
